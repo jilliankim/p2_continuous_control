@@ -26,9 +26,11 @@ WEIGHT_DECAY = 0        # L2 weight decay
 
 
 ### Plot of Rewards:
-Below is the plot and the final training average scores over 100 episodes.
+
+Below is the plot result and the final training average scores over 100 episodes.
 ![Alt text](/continuous_control_plot.png?raw=true "Final Training Results")
 
 
 ### Ideas For Future Work:
-I would like to try different alsorithms like PPO, A3C for both the first and the second version of the environment. I would be interested to see how these algorithms would perform with respect to each other in both these environments.
+
+I would like to try different alsorithms like PPO, A3C for both the first and the second version of the environment (probably will try this in the workspace after the course is over).
